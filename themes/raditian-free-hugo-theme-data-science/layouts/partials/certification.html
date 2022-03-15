@@ -1,0 +1,22 @@
+{{ if .Site.Data.homepage.certification.enable }}
+<section id="Certification_and_Recommendation" class="section section--border-bottom rad-animation-group">
+            <div class="col-12 col-sm-6">
+                <h2>{{ .Site.Data.homepage.certification.title | safeHTML }}</h2>
+                <p class="lead">
+                    {{ .Site.Data.homepage.certification.description | safeHTML }}
+                </p>
+                <a href="{{ .Site.Data.homepage.certification.button3.URL | absURL }}" class="btn btn-primary"
+                   target="_blank">
+                    <i class="{{ .Site.Data.homepage.certification.button3.icon }}"></i>
+                    {{ .Site.Data.homepage.certification.button3.btnText }}
+                    <i class="icon-arrow-right"></i></a>
+                <a href="{{ .Site.Data.homepage.certification.button4.URL | absURL }}" class="btn btn-frameless"
+                   target="_blank">
+                    <i class="{{ .Site.Data.homepage.certification.button4.icon }}"></i>
+                    {{ .Site.Data.homepage.certification.button4.btnText }}
+                </a>
+            </div>
+</section>
+{{ end }}
+
+

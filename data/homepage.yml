@@ -1,0 +1,192 @@
+head:
+  title: "Ana-Maria O'Brien's Data Science Portfolio"
+
+# showcase
+showcase:
+  enable: true
+  title: "Hello, I’m Ana-Maria O'Brien!"
+  subtitle: "Data Scientist and Project Manager"
+  description: "Ana-Maria O'Brien is an aspiring Project Manager with an interest in Data Science" 
+  
+  image:
+    x: "img/works/shiny.gif"
+    _2x: "img/works/shiny.gif"
+  imageMobile:
+    x: "img/works/shiny.gif"
+    _2x: "img/works/shiny.gif"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact Ana-Maria O'Brien"
+    URL: "mailto:anamariaobrien@gmail.com"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/ana-maria-o-brien/"
+
+    - icon: "github"
+      URL: "https://github.com/Bluebirdy2019"
+
+    - icon: "instagram"
+      URL: "https://www.instagram.com/anamaria_obrien/?r=nametag"
+
+    - icon: "facebook"
+      URL: "https://www.facebook.com/anamaria.obrien.754"
+
+
+
+# about
+about:
+  enable: true
+  title: "Who am I?"
+  content: 
+    <p class="lead">
+    <strong> Problem solving is a passion.</strong>  I approach it creatively and with dogged determination. I am a patient teacher.  I like to share my knowledge and skills.  In teams or alone I adjust to the rhythm of a well-honed work ethic. 
+    </p>
+    <p class="lead">
+    <strong>My area of focus</strong> is applying and utilizing the skills i've obtained throughout my academic journey.  These make me adaptable to many environments and a great asset to my future employer.
+    
+    </p>
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://www.linkedin.com/in/ana-maria-o-brien/"
+  image:
+    x: "img/who-am-i/user-picture-2.jpg"
+    _2x: "img/who-am-i/user-picture@2x.jpg"
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: " I have experience working in a multicultural environment in Denmark, Kenya and Guatemala. I enjoy learning new skills and sharpening the ones already obtained."
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/in/ana-maria-o-brien/"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download My Resume"
+    URL: "/cv/resume-ana.pdf"
+
+  items:
+
+    - title: "Software Developer Engineer "
+      company: "<a target='_blank' href='https://un.dk/about-un-city/agencies/undp/'>UNDP Copenhagen</a>" 
+      duration: "June 2021 - December 2021"
+   
+    - title: "Monitor and Evaluator"
+      company: "<a target='_blank' href='https://www.africawoodgrow.com'>Africa Wood Grow</a>" 
+      duration: "September 2017 - December 2017"
+     
+    - title: "Data Analyst/English and Spanish Teacher"
+      company: "<a target='_blank' href='https://www.safepassage.org'>Camino Seguro/safepassage</a>"
+      duration: "March 2015 - Augusht 2015"
+  
+
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "Munster Technological University"
+      year: "2018-2022"
+      degree: "<a target='_blank' href='https://www.cit.ie/course/CRSDAAN9'>Master of Data Science and Analytics</a>" 
+   
+    - university: "Aarhus University"
+      year: "2016-2018"
+      degree: "<a target='_blank' href='https://kandidat.au.dk/en/humansecurity'>Master of Human Security</a>"
+      
+    - university: "University College of Cork"
+      year: "2012-2016"
+      degree: "<a target='_blank' href='https://www.ucc.ie/en/ck214/'>Bachelor of International Development and Food Policy </a>" 
+
+    - university: "Cork College of Commerce"
+      year: "2011-2012"
+      degree: "<a target='_blank' href='https://corkcollegeofcommerce.ie/wp-content/uploads/2019/02/p75.pdf'>Language and European Studies </a>" 
+
+    - university: "University of Limerick"
+      year: "2009-2010"
+      degree: "<a target='_blank' href='https://www.ul.ie/pess/programmes/national-council-exercise-and-fitness-courses'>Certificate in Exercise Health and Fitness</a>" 
+  
+    - university: "CSN College"
+      year: "2008-2009"
+      degree: "<a target='_blank' href='https://csn.ie/leisure-and-recreation-studies'>Leisure and Recreation Studies</a>" 
+
+
+# Client & Work
+
+# Client & Work
+client_and_work:
+  title: "Portfolio"
+  enable: true
+
+  works:
+    - title: "Covid-19 Shiny Dashboard"
+      description: "This application showcases the web scraping of live data which updates on a regular basis from the following webpage <a target='_blank' href='https://www.worldometers.info/coronavirus/'worldometers</a> worldometers. "
+      image:
+        x: "img/works/shiny.gif"
+        _2x: "img/works/shiny.gif"
+      is_even: false
+
+    - title: "Number of vaccinated people by continent"
+      description: "The infromation shows the continent and the number of people vaccinated within each"
+      image:
+        x: "img/works/cs.gif"
+        _2x: "img/works/cs.gif"
+      is_even: false
+    
+    - title: "Number of people vaccinated against Covid-19 by number of new cases of Covid-19"
+      description: "This application showcases the scrapped live data which updates on a regular basis from the following webpage <a target='_blank' href='https://www.worldometers.info/coronavirus/'worldometers</a> worldometers. "
+      image:
+        x: "img/works/con.gif"
+        _2x: "img/works/con.gif"
+      is_even: false
+    
+    - title: "3D interactive Earth Globe"
+      description: "The globe displays the location of the highest total Covid-19 total cases based on the longest spike"
+      image:
+        x: "img/works/spinWorld.gif"
+        _2x: "img/works/spinWorld.gif"
+      is_even: false
+
+# experience
+certification:
+  enable: true
+  title: "Certification and Recommendation "
+  description: "Here you can download my PRINCE2 certification and also my recommendation letter which I recieved from UNDP."
+  button3:
+    icon: "icon-download-fill"
+    btnText: "Download My PRINCE2 Certification"
+    URL: "/cv/PRINCE2.pdf"
+    
+  button4:
+    icon: "icon-download-fill"
+    btnText: "Download My Recommendation Letter"
+    URL: "/cv/Letter.pdf"
+
+
+# contact
+contact:
+  enable: true
+  title: "Contact"
+  form:
+    action: "#"
+    full_name: "Full Name"
+    email: "Email Address"
+    message: "Type Your Message Here"
+  phone:
+    title: "Phone Number"
+    number: "+45 52 70 47 31"
+  email:
+    title: "Email"
+    email: '<a href="mailto:anamariaobrien@gmail.com">anamariaobrien@gmail.com</a>'
+  address:
+    title: "Address"
+    address: "Copenhagen Municipality"
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+#
+
