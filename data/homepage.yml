@@ -155,13 +155,18 @@ client_and_work:
 certification:
   enable: true
   title: "Certification and Recommendation "
-  description: "Here you can download my PRINCE2 certification and also my recommendation letter which I recieved from UNDP."
+  description: "Here you can download my PRINCE2 certifications and also my recommendation letter which I recieved from UNDP."
   button3:
     icon: "icon-download-fill"
-    btnText: "Download My PRINCE2 Certification"
+    btnText: "Download PRINCE2® 6th Edition Foundation in Project Management"
     URL: "/cv/PRINCE2.pdf"
     
   button4:
+    icon: "icon-download-fill"
+    btnText: "Download PRINCE2® 6th Edition Practitioner in Project Management"
+    URL: "/cv/Prince21.pdf"
+    
+  button5:
     icon: "icon-download-fill"
     btnText: "Download My Recommendation Letter"
     URL: "/cv/Letter.pdf"
