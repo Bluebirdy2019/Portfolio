@@ -189,7 +189,7 @@ contact:
     email: '<a href="mailto:anamariaobrien@gmail.com">anamariaobrien@gmail.com</a>'
   address:
     title: "Address"
-    address: "Cork Ireland"
+    address: "County Cork, Ireland"
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
