@@ -71,6 +71,12 @@ experience:
 
   items:
 
+
+
+    - title: "ICT Project Manager "
+      company: "<a target='_blank' href='hhttps://www.maynoothuniversity.ie</a>" 
+      duration: "February 2023 - Present"
+
     - title: "Software Developer Engineer "
       company: "<a target='_blank' href='https://un.dk/about-un-city/agencies/undp/'>UNDP Copenhagen</a>" 
       duration: "July 2021 - December 2021"
@@ -189,7 +195,7 @@ contact:
     email: '<a href="mailto:anamariaobrien@gmail.com">anamariaobrien@gmail.com</a>'
   address:
     title: "Address"
-    address: "County Cork, Ireland"
+    address: "County Kildare, Ireland"
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
