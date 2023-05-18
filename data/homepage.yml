@@ -6,7 +6,7 @@ showcase:
   enable: true
   title: "Hello, I’m Ana-Maria O'Brien!"
   subtitle: "Project Manager and Data Scientist"
-  description: "Ana-Maria O'Brien is a Qualifed Project Manager with PRINCE2 Foundation and Practitioner Certifications and has Double Master's Degree Qualifications." 
+  description: "Ana-Maria O'Brien is a Project Manager with PRINCE2 Foundation and Practitioner Certifications and has a Master of Science in Social Sciences in Human Security and a Master in Data Science and Analytics." 
   
   image:
     x: "img/works/shiny.gif"
