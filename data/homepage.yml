@@ -70,6 +70,10 @@ experience:
     URL: "/cv/resume-ana.pdf"
 
   items:
+     - title: "Specialist SOC & SIEM Project Manager"
+      company: "<a target='_blank'href='https://www.ucc.ie/en/it/'>University College Cork</a>" 
+      duration: "February 2024 - August 2024"
+      
     - title: "ICT Project Manager"
       company: "<a target='_blank'href='https://www.maynoothuniversity.ie'>Maynooth University</a>" 
       duration: "February 2023 - November 2023"
@@ -93,6 +97,10 @@ education:
   enable: true
   title: "Education"
   items:
+    - university: "Innopharma Education and Griffith College"
+      year: "2024-Present"
+      degree: "<a target='_blank' href='https://www.innopharmaeducation.com/our-courses/masters-programmes/pgdip-in-digital-transformation'>Postgraduate Diploma Digital Transformation</a>" 
+   
     - university: "Munster Technological University"
       year: "2018-2022"
       degree: "<a target='_blank' href='https://www.cit.ie/course/CRSDAAN9'>Master of Data Science and Analytics</a>" 
@@ -192,7 +200,7 @@ contact:
     email: '<a href="mailto:anamariaobrien@gmail.com">anamariaobrien@gmail.com</a>'
   address:
     title: "Address"
-    address: "County Kildare, Ireland"
+    address: "County Cork, Ireland"
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
