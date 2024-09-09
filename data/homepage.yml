@@ -70,7 +70,7 @@ experience:
     URL: "/cv/resume-ana.pdf"
 
   items:
-     - title: "Specialist SOC & SIEM Project Manager"
+    - title: "Specialist SOC & SIEM Project Manager"
       company: "<a target='_blank'href='https://www.ucc.ie/en/it/'>University College Cork</a>" 
       duration: "February 2024 - August 2024"
       
@@ -97,7 +97,7 @@ education:
   enable: true
   title: "Education"
   items:
-    - university: "Innopharma Education and Griffith College"
+  - university: "Innopharma Education and Griffith College"
       year: "2024-Present"
       degree: "<a target='_blank' href='https://www.innopharmaeducation.com/our-courses/masters-programmes/pgdip-in-digital-transformation'>Postgraduate Diploma Digital Transformation</a>" 
    
