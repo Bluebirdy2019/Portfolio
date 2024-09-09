@@ -70,7 +70,6 @@ experience:
     URL: "/cv/resume-ana.pdf"
 
   items:
-  
      - title: "Specialist SOC & SIEM Project Manager"
       company: "<a target='_blank'href='https://www.ucc.ie/en/it/'>University College Cork</a>" 
       duration: "February 2024 - August 2024"
@@ -79,7 +78,7 @@ experience:
       company: "<a target='_blank'href='https://www.maynoothuniversity.ie'>Maynooth University</a>" 
       duration: "February 2023 - November 2023"
 
-    - title: "Software Developer Engineer "
+    - title: "ICT Support Engineer "
       company: "<a target='_blank' href='https://un.dk/about-un-city/agencies/undp/'>UNDP Copenhagen</a>" 
       duration: "July 2021 - December 2021"
    
