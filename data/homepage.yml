@@ -97,7 +97,7 @@ education:
   enable: true
   title: "Education"
   items:
-  - university: "Innopharma Education and Griffith College"
+    - university: "Innopharma Education and Griffith College"
       year: "2024-Present"
       degree: "<a target='_blank' href='https://www.innopharmaeducation.com/our-courses/masters-programmes/pgdip-in-digital-transformation'>Postgraduate Diploma Digital Transformation</a>" 
    
@@ -165,7 +165,7 @@ client_and_work:
 # experience
 certification:
   enable: true
-  title: "Certification and Recommendation "
+  title: "Certifications and Recommendation Letter"
   description: "Here you can download my PRINCE2 certifications and also my recommendation letter which I recieved from UNDP."
   button3:
     icon: "icon-download-fill"
